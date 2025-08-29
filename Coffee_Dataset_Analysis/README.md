@@ -16,7 +16,7 @@ The goal was to explore what factors might influence coffee quality and to pract
 ## What I Found
 - Coffees grown at **higher altitudes** often had higher total cup scores.
 - **Washed processing methods** tended to score better on flavor and balance than some other methods.
-- Countries had unique profiles — for example, some stood out in acidity while others were higher in sweetness.
+- Countries had unique profiles, for example, some stood out in acidity while others were higher in sweetness.
 
 ---
 
@@ -28,5 +28,5 @@ The goal was to explore what factors might influence coffee quality and to pract
 
 ---
 
-This project is part of my Master’s in Applied Data Science at Indiana University.  
+This project is part of my Master’s in Applied Data Science at Indiana University Indianapolis.  
 It shows my ability to take a messy dataset, clean it up, and find meaningful insights through Python analysis and visualization.
