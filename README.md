@@ -14,7 +14,7 @@ Each project demonstrates skills in **Python, data analysis, visualization, and 
 
 ---
 
-### 2. [Coffee Dataset Analysis](./Coffee_Dataset_Analysis.ipynb)
+### 2. [Coffee Dataset Analysis](./Coffee_Dataset_Analysis/Coffee_Dataset_Analysis.ipynb)
 - **Focus:** Quality ratings of coffee beans from around the world.  
 - **Techniques:** Pandas, grouping/aggregations, visualization with Matplotlib/Seaborn.  
 - **Key Insight:** Origin country and altitude show measurable impact on certain quality scores.  
